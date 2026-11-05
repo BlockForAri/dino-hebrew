@@ -1,0 +1,24 @@
+{
+  "name": "DinoHebrew - Learn Hebrew with Dinosaurs",
+  "short_name": "DinoHebrew",
+  "description": "Fun Hebrew language learning app for kids with dinosaurs, games, and rewards",
+  "start_url": "./dino-hebrew-web.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "imagine_images/tXtkd.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "imagine_images/tXtkd.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
